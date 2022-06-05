@@ -5,5 +5,5 @@ keras
 seaborn
 tensorflow
 sklearn
-scikit-image
-scipy
+Py-FS
+ReliefF
