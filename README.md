@@ -13,4 +13,4 @@ Dataset Link: [DDSM mammogram](https://www.kaggle.com/skooch/ddsm-mammography)
 
 1. Download the repository and install the required packages:
     pip3 install -r requirements.txt
-2. The Breast_Cancer_Mammograms file is suffficient to run the code. This is a google colab Jupyter notebook.
+2. The main file is suffficient to run the code. This is a google colab Jupyter notebook.
